@@ -5,7 +5,7 @@ const {
   GraphQLInt,
   GraphQLSchema
 } = graphql;
-const_ = require('lodash');
+const _ = require('lodash');
 
 const users = [
   {id: '23', firstName: 'Bill', age: 20},
